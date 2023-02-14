@@ -1,12 +1,4 @@
 # CSV to SQL import
-
-
-[![N|Solid](https://raw.githubusercontent.com/krishankantray/temp/master/visit_button.JPG)](https://suspicious-carson-2627ba.netlify.app/)
-
-Github : [Front-End Part](https://github.com/krishankantray/csv-to-sql-import-client)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Back-End Part](https://github.com/krishankantray/csv-to-sql-import-server)
-
 ##### **What is this app all about ?**
 This app allows users to import a .csv file and save it in MySQL. The .csv file needs to be in a specified format, something like  this .
 Once the data is saved we can see and delete the table data on the front-end.
